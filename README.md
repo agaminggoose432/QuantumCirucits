@@ -1,5 +1,6 @@
 # Welcome to my repo
 **Find below some important info for understanding this repo.** 
+This is more of an archive for me and something other people can refer to to learn more about Quantum Computing
 
 ## QisKit
 
